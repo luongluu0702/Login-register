@@ -1,0 +1,7 @@
+.open{
+    display: flex
+}
+.invalid{
+   color: red;
+   border-color: red;
+}
